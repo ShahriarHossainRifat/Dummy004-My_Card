@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
                       style: TextStyle(
                           color: Colors.white,
                           fontFamily: 'RedHatMono',
-                          fontSize: 16.0),
+                          fontSize: 14.0),
                     ),
                   ),
                 ),
@@ -77,7 +77,7 @@ class MyApp extends StatelessWidget {
                       style: TextStyle(
                         color: Colors.white,
                         fontFamily: 'RedHatMono',
-                        fontSize: 16.0,
+                        fontSize: 14.0,
                       ),
                     ),
                   ),
